@@ -1,5 +1,5 @@
 # test1
-something cool
+something cool \n
 Don't change this file, I'm the boss here.(armendazizi1);-10:15
 
 E krijova nje file
