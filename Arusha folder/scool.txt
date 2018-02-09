@@ -3,12 +3,4 @@ This is something cool I wrote just to test it
 Now I modified this dude and I am the master here
 
 
-<<<<<<< refs/remotes/origin/develop
 This is the fourth change dudes
-=======
-This change was made from develop
-
-this change was again made from develop fro the second time now.
-
-this is the third change
->>>>>>> Update scool.txt
